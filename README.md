@@ -1,7 +1,7 @@
 # Modem and bootloader repository 
 **for Samsung Galaxy S8(+)/Note8 Exynos variants (including korean N)**
 
-### Do note this is not a way to downgrade revision of modem and bootloader.
+### Note: this is not a way to downgrade revision of modem and bootloader.
 
 ```
 Copyright 2019-2020 © corsicanu
@@ -20,8 +20,8 @@ limitations under the License.
 ```
 ### Disclaimer
 ```
-I am not responsable for anything you do with your device, don't blame me or anyone else 
-involved in this for your failures, you are the only one choosing to mess up with your device. 
+I am not responsible for anything you do with your device. Do not hold me or anyone else 
+involved in this for your failures. You are the only one choosing to mess up with your device. 
 All the files here are pulled from official firmwares of the devices mentioned.
 ```
 
